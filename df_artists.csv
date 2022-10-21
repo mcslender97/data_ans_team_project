@@ -1,0 +1,732 @@
+artist_id,artist_name
+0,Norah Jones
+1,Deep Purple
+2,Gorillaz
+3,Foo Fighters
+4,Bruce Springsteen
+5,City To City
+6,Maroon 5
+7,Muse
+8,The Killers
+9,Eminem
+10,Elvis Presley
+11,The White Stripes
+12,De Dijk
+13,Ten Years After
+14,Arctic Monkeys
+15,Paul de Leeuw
+16,Coldplay
+17,Alanis Morissette
+18,John Miles
+19,Justin Timberlake
+20,Mumford & Sons
+21,Jan Smit
+22,BLØF
+23,Ilse DeLange
+24,Editors
+25,Herbert Grönemeyer
+26,Youssou N'Dour
+27,Robert Plant
+28,Adele
+29,Amy Winehouse
+30,Sandy Coast
+31,The Goo Goo Dolls
+32,U2
+33,Guus Meeuwis
+34,Santa Esmeralda
+35,Tiësto
+36,Franz Ferdinand
+37,Green Day
+38,Linkin Park
+39,Robbie Williams
+40,Lou Reed
+41,Snow Patrol
+42,Barry White
+43,Saybia
+44,Pearl Jam
+45,James Blunt
+46,Metallica
+47,Christina Aguilera
+48,Elbow
+49,Beyoncé
+50,Backstreet Boys
+51,Golden Earring
+52,Rowwen Hèze
+53,Johnny Cash
+54,Doe Maar
+55,Manu Chao
+56,3 Doors Down
+57,Seal
+58,P!nk
+59,Status Quo
+60,Stereophonics
+61,Queens of the Stone Age
+62,Peter Sarstedt
+63,The Dubliners
+64,Michael Jackson
+65,Jacques Brel
+66,Volbeat
+67,Marco Borsato
+68,Spinvis
+69,Twarres
+70,Enya
+71,Blue
+72,The Offspring
+73,Anouk
+74,Claw Boys Claw
+75,David Bowie
+76,Boudewijn de Groot
+77,The Proclaimers
+78,Mark Ronson
+79,Gé Reinders
+80,Manic Street Preachers
+81,Veldhuis & Kemper
+82,Alicia Keys
+83,JAY-Z
+84,Armand
+85,Kid Rock
+86,Jeff Wayne
+87,John Mayer
+88,Keane
+89,The Fray
+90,Andre Hazes
+91,Santana
+92,Daft Punk
+93,Kings of Leon
+94,The Temper Trap
+95,John Farnham
+96,IOS
+97,The Bangles
+98,The Temptations
+99,Bram Vermeulen
+100,Enigma
+101,Maarten Van Roozendaal
+102,Tenacious D
+103,Pat Benatar
+104,Michael Bublé
+105,Rammstein
+106,The Black Eyed Peas
+107,The Cult
+108,Normaal
+109,UB40
+110,Racoon
+111,Neil Young
+112,De Poema's
+113,The Beatles
+114,Nightwish
+115,Rufus Wainwright
+116,Fish
+117,Mark Knopfler
+118,Counting Crows
+119,The Weather Girls
+120,Billy Joel
+121,Mike Oldfield
+122,Ramses Shaffy
+123,Evanescence
+124,Plain White T's
+125,Yann Tiersen
+126,Krezip
+127,The Script
+128,De Jeugd Van Tegenwoordig
+129,Within Temptation
+130,Alain Clark
+131,Bill Medley
+132,Damien Rice
+133,Jamiroquai
+134,Golden Earrings
+135,Gossip
+136,Blondie
+137,JOHAN
+138,Michel Sardou
+139,Daniël Lohues
+140,Sarah Brightman
+141,Delerium
+142,Acda en de Munnik
+143,Nick & Simon
+144,Tom Petty and the Heartbreakers
+145,Eddie Vedder
+146,Dido
+147,Tavares
+148,Red Hot Chili Peppers
+149,Chris Rea
+150,The Scene
+151,Bee Gees
+152,Beth Hart
+153,Kayak
+154,Mary J. Blige
+155,Gary Jules
+156,10cc
+157,Blur
+158,Owl City
+159,Wolfmother
+160,Amy Macdonald
+161,Chris Isaak
+162,K's Choice
+163,Kim Wilde
+164,Focus
+165,Kane
+166,Paul McCartney
+167,Train
+168,Sam Cooke
+169,Womack & Womack
+170,John Legend
+171,Spandau Ballet
+172,Lionel Richie
+173,Phil Collins
+174,OutKast
+175,Eurythmics
+176,Alderliefste met Ramses Shaffy en Liesbeth List
+177,The Rolling Stones
+178,Madonna
+179,Chi Coltrane
+180,System Of A Down
+181,Kyteman
+182,Mud
+183,Alderliefste
+184,Darude
+185,Robert Cray
+186,Neet Oét Lottum
+187,Toontje Lager
+188,Joni Mitchell
+189,Faithless
+190,MGMT
+191,Stevie Wonder
+192,Stealers Wheel
+193,Florence + The Machine
+194,Peter Schilling
+195,New Order
+196,Limp Bizkit
+197,Snowy White
+198,Jason Mraz
+199,Abel
+200,Sammy Davis Jr.
+201,Natasha Bedingfield
+202,Gorki
+203,Live
+204,Massive Attack
+205,Katie Melua
+206,Bon Jovi
+207,De Kast
+208,Lisa Lois
+209,Simply Red
+210,Nickelback
+211,Ronan Keating
+212,Simple Minds
+213,Lady Gaga
+214,Kaiser Chiefs
+215,Lange Frans
+216,Ram Jam
+217,Novastar
+218,Herman Brood & His Wild Romance
+219,Van Dik Hout
+220,White Lies
+221,Ike & Tina Turner
+222,Band Aid
+223,2Pac
+224,Claudia De Breij
+225,Joy Division
+226,Anita Meyer
+227,Charly Lownoise
+228,Triggerfinger
+229,"Emerson, Lake & Palmer"
+230,Stromae
+231,Caro Emerald
+232,Matthias Reim
+233,Cock Robin
+234,DI-RECT
+235,Bruno Mars
+236,Lady Antebellum
+237,Rihanna
+238,Roy Orbison
+239,Party Animals
+240,Agnes Obel
+241,Solomon Burke
+242,DJ Paul Elstak
+243,Avicii
+244,Gotye
+245,Scorpions
+246,The Black Keys
+247,Ed Sheeran
+248,David Guetta
+249,DJ Paul
+250,Sniff 'n' The Tears
+251,Ben Howard
+252,Foster The People
+253,Jonathan Jeremiah
+254,Road Band
+255,Birdy
+256,Joe Bonamassa
+257,INXS
+258,Maggie MacNeal
+259,Ray Charles
+260,Imagine Dragons
+261,Lana Del Rey
+262,Elvis Costello
+263,Kensington
+264,Tori Amos
+265,Macklemore & Ryan Lewis
+266,Youp van 't Hek
+267,Michael Kiwanuka
+268,Drs. P
+269,The Opposites
+270,Whitney Houston
+271,Xavier Rudd
+272,Emeli Sandé
+273,Of Monsters and Men
+274,Loreen
+275,Tom Odell
+276,Armin van Buuren
+277,De Staat
+278,The Boxer Rebellion
+279,Passenger
+280,London Grammar
+281,Derek & The Dominos
+282,Bastille
+283,Mr. Probz
+284,Kodaline
+285,Martin Garrix
+286,3JS
+287,Paul Kalkbrenner
+288,One Direction
+289,Lorde
+290,Jewel
+291,Robin Thicke
+292,Paolo Nutini
+293,Hozier
+294,Michel Fugain
+295,Chef'Special
+296,Underworld
+297,Pharrell Williams
+298,The Common Linnets
+299,The War On Drugs
+300,First Aid Kit
+301,Typhoon
+302,Dotan
+303,Gigi D'Agostino
+304,The Who
+305,Bush
+306,Jeroen van Koningsbrugge
+307,Sam Smith
+308,Taylor Swift
+309,Fink
+310,OneRepublic
+311,Cyndi Lauper
+312,Nielson
+313,WALK THE MOON
+314,Blaudzun
+315,James Bay
+316,Disturbed
+317,Wim Sonneveld
+318,Maaike Ouboter
+319,Sia
+320,Tame Impala
+321,Twenty One Pilots
+322,Air
+323,Van Morrison
+324,Frank Sinatra
+325,Douwe Bob
+326,George Ezra
+327,Chris Stapleton
+328,Jean-Michel Jarre
+329,Eric Clapton
+330,Brainbox
+331,Gregory Porter
+332,Cliff Richard & The Drifters
+333,Dua Lipa
+334,Justin Bieber
+335,John Lennon
+336,Freddie Mercury
+337,André Hazes Jr.
+338,Diggy Dex
+339,Leonard Cohen
+340,Ennio Morricone
+341,The Trammps
+342,Q'65
+343,KALEO
+344,Lukas Graham
+345,Ryuichi Sakamoto
+346,Gavin James
+347,Jason Paige
+348,Rag'n'Bone Man
+349,Ede Staal
+350,Harry Styles
+351,Lex Uiting
+352,Bökkers
+353,Arcade Fire
+354,Nothing But Thieves
+355,George Michael
+356,The Chainsmokers
+357,Paolo Conte
+358,The Sugarhill Gang
+359,Neil Diamond
+360,The Moody Blues
+361,Tom Walker
+362,LP
+363,Davina Michelle
+364,Queen
+365,"Earth, Wind & Fire"
+366,Frans Halsema
+367,Helene Fischer
+368,Suzan & Freek
+369,Panic! At The Disco
+370,Lauren Daigle
+371,Lewis Capaldi
+372,Rob De Nijs
+373,Alan Walker
+374,5 Seconds of Summer
+375,Waylon
+376,Spider Murphy Gang
+377,The Teskey Brothers
+378,Camila Cabello
+379,Calvin Harris
+380,Shawn Mendes
+381,Danny Vera
+382,Duncan Laurence
+383,Procol Harum
+384,Jackson Browne
+385,Wham!
+386,Billie Eilish
+387,Killing Joke
+388,Snelle
+389,Nirvana
+390,Floor Jansen
+391,Tones and I
+392,Luis Fonsi
+393,Calum Scott
+394,Simon & Garfunkel
+395,Black Sabbath
+396,Creedence Clearwater Revival
+397,Elton John
+398,Peter Maffay
+399,Led Zeppelin
+400,"Crosby, Stills, Nash & Young"
+401,Yusuf / Cat Stevens
+402,The Doors
+403,George Harrison
+404,Earth & Fire
+405,James Taylor
+406,Chicago
+407,Carpenters
+408,Curtis Mayfield
+409,The Beach Boys
+410,Pink Floyd
+411,Don McLean
+412,Janis Joplin
+413,Bill Withers
+414,Marvin Gaye
+415,Alice Cooper
+416,The Cats
+417,Gilbert O'Sullivan
+418,Carole King
+419,Jethro Tull
+420,Yes
+421,Rod Stewart
+422,J.J. Cale
+423,The Buoys
+424,Eagles
+425,America
+426,Jim Croce
+427,The Kinks
+428,Uriah Heep
+429,Carly Simon
+430,Thin Lizzy
+431,The Doobie Brothers
+432,Dr. Hook
+433,Steely Dan
+434,Aerosmith
+435,Lynyrd Skynyrd
+436,ZZ Top
+437,John Denver
+438,Genesis
+439,Steve Harley & Cockney Rebel
+440,Bob Dylan
+441,Gladys Knight & The Pips
+442,Steve Miller Band
+443,Slade
+444,Supertramp
+445,Dolly Parton
+446,ABBA
+447,Joe Cocker
+448,Kraftwerk
+449,The Hollies
+450,Roger Glover
+451,Reinhard Mey
+452,Sweet
+453,Bachman-Turner Overdrive
+454,Barry Manilow
+455,Electric Light Orchestra
+456,Barbra Streisand
+457,Bob Marley & The Wailers
+458,Fleetwood Mac
+459,Nazareth
+460,Paul Simon
+461,Little River Band
+462,Heart
+463,Steve Harley
+464,Lucifer
+465,Janis Ian
+466,James Brown
+467,Peter Frampton
+468,Roxy Music
+469,Boston
+470,Blue Öyster Cult
+471,Kansas
+472,Tom Waits
+473,Ramones
+474,Manfred Mann's Earth Band
+475,Diana Ross
+476,Meat Loaf
+477,AC/DC
+478,The Mark & Clark Band
+479,Peter Gabriel
+480,Iggy Pop
+481,Talking Heads
+482,Donna Summer
+483,Foreigner
+484,Muddy Waters
+485,Cheap Trick
+486,Sex Pistols
+487,Grace Jones
+488,Mink DeVille
+489,CHIC
+490,The Babys
+491,Dire Straits
+492,Kate Bush
+493,The Police
+494,TOTO
+495,Gerry Rafferty
+496,Van Halen
+497,Patti Smith
+498,Boney M.
+499,Patrick Hernandez
+500,The Pointer Sisters
+501,Bette Midler
+502,KISS
+503,Madness
+504,Art Garfunkel
+505,The Cure
+506,The Clash
+507,Fischer-Z
+508,Dan Hartman
+509,Frank Zappa
+510,Ellen Foley
+511,Diesel
+512,Motörhead
+513,The Blues Brothers
+514,The Alan Parsons Project
+515,REO Speedwagon
+516,Rush
+517,Orchestral Manoeuvres In The Dark
+518,Journey
+519,The Stranglers
+520,Soft Cell
+521,The Human League
+522,Jon & Vangelis
+523,Drukwerk
+524,Iron Maiden
+525,Joe Jackson
+526,Het Goede Doel
+527,Prince
+528,Dexys Midnight Runners
+529,BAP
+530,Vandenberg
+531,Willie Nelson
+532,Duran Duran
+533,Nena
+534,Depeche Mode
+535,Split Enz
+536,Stevie Ray Vaughan
+537,Nits
+538,The The
+539,Clannad
+540,Culture Club
+541,Bryan Adams
+542,Alphaville
+543,Ultravox
+544,Frankie Goes To Hollywood
+545,Don Henley
+546,Tina Turner
+547,Philip Bailey
+548,The Blue Nile
+549,Talk Talk
+550,Bronski Beat
+551,Lee Towers
+552,Japan
+553,The Smiths
+554,Falco
+555,Frank Boeijen Groep
+556,a-ha
+557,Tears For Fears
+558,Survivor
+559,Sting
+560,Mr. Mister
+561,U.S.A. For Africa
+562,Gary Moore
+563,Slayer
+564,Europe
+565,Elvis Costello & The Attractions
+566,Crowded House
+567,Chris de Burgh
+568,Herman van Veen
+569,The Communards
+570,Bruce Hornsby
+571,Run–D.M.C.
+572,Beastie Boys
+573,Pet Shop Boys
+574,Klein Orkest
+575,Guns N' Roses
+576,Sinéad O'Connor
+577,Whitesnake
+578,Édith Piaf
+579,Rick Astley
+580,John Hiatt
+581,R.E.M.
+582,The Shadows
+583,Suzanne Vega
+584,Level 42
+585,Black
+586,Tracy Chapman
+587,Melissa Etheridge
+588,Eros Ramazzotti
+589,Marianne Rosenberg
+590,Roxette
+591,The Pogues
+592,Mike & The Mechanics
+593,Traveling Wilburys
+594,Labi Siffre
+595,Tanita Tikaram
+596,Clouseau
+597,Tom Petty
+598,Lenny Kravitz
+599,Faith No More
+600,Alannah Myles
+601,Pixies
+602,Cher
+603,The B-52's
+604,Stef Bos
+605,Queensrÿche
+606,Temple Of The Dog
+607,Extreme
+608,Tröckener Kecks
+609,Living Colour
+610,The Black Crowes
+611,Mannenkoor Karrespoor
+612,Al Stewart
+613,Ozzy Osbourne
+614,Ten Sharp
+615,Marc Cohn
+616,Bonnie Raitt
+617,Paul Young
+618,Rage Against The Machine
+619,Marillion
+620,Vangelis
+621,Alice In Chains
+622,4 Non Blondes
+623,Stone Temple Pilots
+624,Barry Ryan
+625,Otis Redding
+626,House Of Pain
+627,The Prodigy
+628,Vitesse
+629,Annie Lennox
+630,SNAP!
+631,Blind Melon
+632,Radiohead
+633,The Cranberries
+634,Gloria Gaynor
+635,The Smashing Pumpkins
+636,Iron Butterfly
+637,Valensia
+638,Wings
+639,Laura Pausini
+640,The Jackson 5
+641,The Fatal Flowers
+642,Jeff Buckley
+643,The Amazing Stroopwafels
+644,Soundgarden
+645,Mariah Carey
+646,Sade
+647,Portishead
+648,Oasis
+649,Crash Test Dummies
+650,Hans De Booij
+651,Andrea Bocelli
+652,Paul Weller
+653,Fools Garden
+654,Skunk Anansie
+655,Coolio
+656,No Doubt
+657,Therapy?
+658,Charles Aznavour
+659,Men At Work
+660,Nick Cave & The Bad Seeds
+661,Spice Girls
+662,Fugees
+663,Robert Miles
+664,Blackstreet
+665,Patrick Bruel
+666,Amanda Marshall
+667,Chaka Khan
+668,Eels
+669,The Verve
+670,Frank Boeijen
+671,Skik
+672,Buena Vista Social Club
+673,Gerry & The Pacemakers
+674,George Baker Selection
+675,Midnight Oil
+676,Céline Dion
+677,Eva Cassidy
+678,The Waterboys
+679,Liquido
+680,Henk Westbroek
+681,Hero
+682,Korn
+683,Les Poppys
+684,Placebo
+685,Fatboy Slim
+686,Mecano
+687,Bonnie Tyler
+688,Venice
+689,Moby
+690,Smash Mouth
+691,Zucchero
+692,Dr. Dre
+693,Karin Bloemen
+694,blink-182
+695,The Chemical Brothers
+696,Etta James
+697,Ben E. King
+698,The Animals
+699,Gilbert Bécaud
+700,The Righteous Brothers
+701,Nina Simone
+702,The Byrds
+703,The Mamas & The Papas
+704,Percy Sledge
+705,Tim Hardin
+706,James Brown & The Famous Flames
+707,Aretha Franklin
+708,Jefferson Airplane
+709,Jimi Hendrix
+710,Cuby & The Blizzards
+711,Scott McKenzie
+712,The Monkees
+713,Cream
+714,Tom Jones
+715,Liesbeth List
+716,Louis Armstrong
+717,The Band
+718,Steppenwolf
+719,Richard Harris
+720,Shocking Blue
+721,Dusty Springfield
+722,Melanie
+723,B.B. King
+724,Ralph McTell
+725,Roberta Flack
+726,Rare Earth
+727,"Crosby, Stills & Nash"
+728,Chuck Berry
+729,The Dave Brubeck Quartet
+730,Fats Domino
