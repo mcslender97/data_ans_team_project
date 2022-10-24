@@ -9,3 +9,4 @@ https://public.tableau.com/app/profile/michael6542/viz/SpotifyTeamProject/Dashbo
 Jeremy Stanley's Link: https://public.tableau.com/app/profile/jeremy.stanley/viz/GenreCharacteristicsStats/GenreCharacteristicsStats?publish=yes
 
 Do, Minh Cuong' Link
+https://public.tableau.com/app/profile/minh.cuong.do/viz/MCDo-TeamProj-Spotify2k/Dashboard1?publish=yes
