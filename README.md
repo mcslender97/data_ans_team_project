@@ -6,6 +6,6 @@ artist, genres and songs that are on this list. below. you will find several lin
 Michael Moore's Link
 https://public.tableau.com/app/profile/michael6542/viz/SpotifyTeamProject/Dashboard1?publish=yes
 
-Jeremy Stanley's Link
+Jeremy Stanley's Link: https://public.tableau.com/app/profile/jeremy.stanley/viz/GenreCharacteristicsStats/GenreCharacteristicsStats?publish=yes
 
 Do, Minh Cuong' Link
