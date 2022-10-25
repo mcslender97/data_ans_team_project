@@ -10,3 +10,6 @@ Jeremy Stanley's Link: https://public.tableau.com/app/profile/jeremy.stanley/viz
 
 Do, Minh Cuong' Link
 https://public.tableau.com/app/profile/minh.cuong.do/viz/MCDo-TeamProj-Spotify2k/Dashboard1?publish=yes
+
+Kevon Priester's Link
+https://public.tableau.com/app/profile/kevon.priester/viz/TeamProjectforSpotify2K/Dashboard1
